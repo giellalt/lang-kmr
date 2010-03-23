@@ -2,7 +2,7 @@ Alphabet
  a b c d e f g h i j k l m n o p q r s t u v w x y z â ê î ô û ç ş 
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Â Ê Î Ô Û Ç Ş
 
- %>:0 %^PREF:0 %^VSUF:0;
+ %>:0 %^PREF:0 %^VSUF:0 ;
 
 Sets
 
@@ -28,7 +28,9 @@ e:0 <=> Vow %^VSUF:0 _ ;
 
 ! dişo^VSUFî --> dişoyî
 "Epenthetic 'y' insertion"
-î:î <=> Vow %^VSUF:y _ î ;
+%^VSUF:y <=> Vow _ î ;
+
+!î:î <=> Vow %^VSUF:y _ î ;
 
 !€ dişo^VSUFî
 !€ dişoy0000î
