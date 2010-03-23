@@ -21,6 +21,7 @@ LEXICON Root
 VerbRoot ;
 NounRoot ;
 AdjRoot ;
+Adverb ;
 PronRoot ;
 PrepRoot ;
 PunctRoot ;
