@@ -2,4 +2,4 @@ LEXICON CC
 +CC: #;
 
 LEXICON Conjunction 
-ja CC ;
+û CC ;
