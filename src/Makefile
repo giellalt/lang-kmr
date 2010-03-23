@@ -49,7 +49,7 @@ all: ikmr.fst
 
 
 ikmr.fst: ../bin/ikmr.fst
-../bin/ikmr.fst: ../bin/kmr.save
+../bin/ikmr.fst: ../bin/kmr.save ../bin/tok.fst ../bin/inituppercase.fst
 	@echo
 	@echo "*** Building the inverse ikmr.fst ***"
 	@echo
