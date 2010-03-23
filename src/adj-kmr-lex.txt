@@ -16,15 +16,3 @@ nû:nû nû__adj ; ! lm="nû" :: "new"
 xur:xur nû__adj ; ! lm="xur" :: "strong"
 pêwist:pêwis pêwis/t__adj; ! lm="pêwist" :: "important"
 
-LEXICON nû__adj
-
-+Adj+Pst:%> #;
-+Adj+Comp:%>tir # ;
-+Adj+Sup:%>tirîn # ;
-
-LEXICON pêwis/t__adj
-
-+Adj+Pst:%>t #;
-+Adj+Comp:%>tir # ;
-+Adj+Sup:%>tirîn # ;
-

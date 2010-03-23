@@ -71,9 +71,9 @@ dît:bîn Accidents_in ; !lm="dîtin" :: "to see"
 
 !!! Note: http://fr.wiktionary.org/wiki/Annexe:Conjugaison_kurde/vexwarin // prefixes are infixes
 
-vexwar:vexw ; ! lm="vexwarin" :: "to drink" 
-vekir:vekir ; ! lm="vekirin" :: "to open"
-hild:hild ; ! lm="hildan" :: "to lift"
-rûnişt:rûnê ; ! lm="rûniştin" :: "to sit down"
-behs% kir:behs% kir ; ! lm="behs kirin" :: "to discuss"
-alîkarî% kir:alîkarî% kir ; ! lm="alîkarî kirin" :: "to help"
+! vexwar:vexw ; ! lm="vexwarin" :: "to drink" 
+! vekir:vekir ; ! lm="vekirin" :: "to open"
+! hild:hild ; ! lm="hildan" :: "to lift"
+! rûnişt:rûnê ; ! lm="rûniştin" :: "to sit down"
+! behs% kir:behs% kir ; ! lm="behs kirin" :: "to discuss"
+! alîkarî% kir:alîkarî% kir ; ! lm="alîkarî kirin" :: "to help"

@@ -25,22 +25,23 @@ scripts=$(GTHOME)/gt/script
 LEX = kmr-lex.txt \
 	noun-kmr-lex.txt \
 	noun-kmr-morph.txt \
-#	propernoun-kmr-lex.txt \
-#	propernoun-kmr-morph.txt \
 	adj-kmr-lex.txt \
 	adj-kmr-morph.txt \
 	verb-kmr-lex.txt \
 	verb-kmr-morph.txt \
 	adv-kmr-lex.txt \
-#	abbr-kmr-lex.txt \
-#	acro-kmr-lex.txt \
 	pron-kmr-lex.txt \
 	punct-kmr-lex.txt \
-#	numeral-kmr-lex.txt \
 	pp-kmr-lex.txt \
 	cc-kmr-lex.txt \
 	cs-kmr-lex.txt \
 	interj-kmr-lex.txt 
+
+#	numeral-kmr-lex.txt \
+#	abbr-kmr-lex.txt \
+#	acro-kmr-lex.txt \
+#	propernoun-kmr-lex.txt \
+#	propernoun-kmr-morph.txt \
 #	det-kmr-lex.txt
 
 all: ikmr.fst

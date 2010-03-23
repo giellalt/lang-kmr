@@ -24,3 +24,6 @@ AdjRoot ;
 PronRoot ;
 PrepRoot ;
 PunctRoot ;
+Interjection ;
+Conjunction ;
+Subjunction ;
