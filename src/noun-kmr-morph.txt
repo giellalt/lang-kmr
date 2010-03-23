@@ -1,0 +1,51 @@
+LEXICON mirov__n
+
++N+Masc+Sg+Nom+Ind:%>ek # ;
++N+Masc+Sg+Obl+Ind:%>ekî # ;
++N+Masc+Sg+Con+Ind:%>ekî # ;
++N+Masc+Sg+Nom+Def: # ;
++N+Masc+Sg+Obl+Def: # ;
++N+Masc+Sg+Con+Def:%>ê # ;
++N+Masc+Sg+Voc+Def:%>o # ;
++N+Masc+Pl+Nom+Ind:%>in # ;
++N+Masc+Pl+Obl+Ind:%>inan # ;
++N+Masc+Pl+Con+Ind:%>ine # ;
++N+Masc+Pl+Nom+Def: # ;
++N+Masc+Pl+Obl+Def:%>an # ;
++N+Masc+Pl+Con+Def:%>ên # ;
++N+Masc+Pl+Voc+Def:%>ên # ;
+
+LEXICON ba__n 
+
++N+Masc+Sg+Nom+Ind:%>yek # ;
++N+Masc+Sg+Obl+Ind:%>yekî # ;
++N+Masc+Sg+Con+Ind:%>yekî # ;
++N+Masc+Sg+Nom+Def: # ;
++N+Masc+Sg+Obl+Def: # ;
++N+Masc+Sg+Con+Def:%>yê # ;
++N+Masc+Sg+Voc+Def:%>yo # ;
++N+Masc+Pl+Nom+Ind:%>yin # ;
++N+Masc+Pl+Obl+Ind:%>yinan # ;
++N+Masc+Pl+Con+Ind:%>yine # ;
++N+Masc+Pl+Nom+Def: # ;
++N+Masc+Pl+Obl+Def:%>yan # ;
++N+Masc+Pl+Con+Def:%>yên # ;
++N+Masc+Pl+Voc+Def:%>no # ;
+
+LEXICON roj__n
+
++N+Fem+Sg+Nom+Ind:%>ek # ;
++N+Fem+Sg+Obl+Ind:%>ekê # ;
++N+Fem+Sg+Con+Ind:%>eke # ;
++N+Fem+Sg+Nom+Def: # ;
++N+Fem+Sg+Obl+Def:ê # ;
++N+Fem+Sg+Con+Def:%>a # ;
++N+Fem+Sg+Voc+Def:%>ê # ;
++N+Fem+Pl+Nom+Ind:%>in # ;
++N+Fem+Pl+Obl+Ind:%>inan # ;
++N+Fem+Pl+Con+Ind:%>ine # ;
++N+Fem+Pl+Nom+Def: # ;
++N+Fem+Pl+Obl+Def:%>ên # ;
++N+Fem+Pl+Con+Def:%>an # ;
++N+Fem+Pl+Voc+Def:%>ên # ;
+

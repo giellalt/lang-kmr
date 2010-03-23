@@ -1,0 +1,79 @@
+
+LEXICON VerbRoot
+
+Prefixes ;
+PresentStems ;
+
+LEXICON Prefixes
+
+!!!   To form the present tense, the stressed progressive/habitual modal marker
+!!! di- is prefixed to the present stem, and a suffixed personal ending is added 
+!!! to the stem.
+
+@P.PREF.di@:di%^PREF@P.PREF.di@ PresentStems ;
+@P.PREF.bi@:bi%^PREF@P.PREF.bi@ PresentStems ;
+@P.PREF.na@:na%^PREF@P.PREF.na@ PresentStems ;
+@P.PREF.ne@:ne%^PREF@P.PREF.ne@ PresentStems ;
+
+PresentStems;
+
+LEXICON PresentStems
+
+ç:ç Accidents_uen  ; ! lm="çûn" :: "to go"
+şust:şo Accidents_in ; !lm="şustin" :: "to wash"
+axaft:axiv Accidents_in ; !lm="axaftin" :: "to speak"
+parast:parast Accidents_in ; !lm="parastin" :: "to protect"
+firot:firot Accidents_in ; !lm="firotin" :: "to sell"
+bîst:bîst Accidents_in ; !lm="bîstin" :: "to hear"
+hat:hat Accidents_in ; !lm="hatin" :: "to come"
+hinart:hinart Accidents_in ; !lm="hinartin" :: "to send"
+kir:ke Accidents_in ; !lm="kirin" :: "to do"
+mîst:mîst Accidents_in ; !lm="mîstin" :: "to urinate"
+rûnişt:rûnişt Accidents_in ; !lm="rûniştin" :: "to sit"
+vegot:vegot Accidents_in ; !lm="vegotin" :: "to report"
+xwar:xw Accidents_in ; !lm="xwarin" :: "to eat"
+xwend:xwend Accidents_in ; !lm="xwendin" :: "to read"
+şand:şand Accidents_in ; !lm="şandin" :: "to send"
+
+
+mirand:mirîn Accidents_in ; !lm="mirandin" :: "to cause to die"
+weşand:weşîn Accidents_in ; !lm="weşandin" :: "to publish"
+azirand:azirîn Accidents_in ; !lm="azirandin" :: "to incite"
+êşand:êşîn Accidents_in ; !lm="êşandin" :: "to hurt"
+belişand:belişîn Accidents_in ; !lm="belişandin" :: "to incite"
+pesinand:pesinîn Accidents_in ; !lm="pesinandin" :: "to pray"
+dabiland:dabilîn Accidents_in ; !lm="dabilandin" :: "to swallow"
+qedand:qedîn Accidents_in ; !lm="qedandin" :: "to finish"
+fetisand:fetisîn Accidents_in ; !lm="fetisandin" :: "to choke"
+taşand:taşîn Accidents_in ; !lm="taşandin" :: "to educate"
+
+! lm="fikirîn" :: "to think"
+! lm="tirsîn" :: "to fear"
+! lm="zanîn" :: "to know"
+! lm="karîn" :: "to be able"
+! lm="hizirîn" :: "to think"
+! lm="pûnijîn" :: "to think"
+! lm="ramîn" :: "to think"
+! lm="revîn" :: "to escape"
+! lm="doşîn" :: "to milk"
+! lm="bişirîn" :: "to smile"
+! lm="anîn" :: "to bring"
+! lm="firrîn" :: "to fly"
+! lm="kirrîn" :: "to buy"
+! lm="mêjîn" :: "to suck"
+! lm="bazdan" :: "to escape"
+! lm="hênan" :: "to bring"
+! lm="rahênan" :: "to train"
+! lm="meşiyan" :: "to walk"
+
+xwest:xwaz Accidents_in ; !lm="xwestin" :: "to want"
+dît:bîn Accidents_in ; !lm="dîtin" :: "to see"
+
+!!! Note: http://fr.wiktionary.org/wiki/Annexe:Conjugaison_kurde/vexwarin // prefixes are infixes
+
+vexwar:vexw ; ! lm="vexwarin" :: "to drink" 
+vekir:vekir ; ! lm="vekirin" :: "to open"
+hild:hild ; ! lm="hildan" :: "to lift"
+rûnişt:rûnê ; ! lm="rûniştin" :: "to sit down"
+behs% kir:behs% kir ; ! lm="behs kirin" :: "to discuss"
+alîkarî% kir:alîkarî% kir ; ! lm="alîkarî kirin" :: "to help"

@@ -1,0 +1,27 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Pronouns 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PronRoot 
+
+ez+Prn+Pers+P1+Sg+Nom:ez # ;
+ez+Prn+Pers+P1+Sg+Obl:min # ;
+tu+Prn+Pers+P2+Sg+Nom:tu # ;
+tu+Prn+Pers+P2+Sg+Obl:te # ;
+
+em+Prn+Pers+P1+Pl+Nom:em # ;
+em+Prn+Pers+P1+Pl+Obl:me # ;
+hun+Prn+Pers+P2+Pl+Nom:hun # ;
+hun+Prn+Pers+P2+Pl+Obl:we # ;
+
+ew+Prn+Dem+Sg+Nom:ew # ;
+ew+Prn+Dem+Masc+Sg+Obl:wî # ;
+ew+Prn+Dem+Fem+Sg+Obl:wê # ;
+ew+Prn+Dem+Pl+Nom:ew # ;
+ew+Prn+Dem+Pl+Obl:wan # ;
+
+ev+Prn+Dem+Sg+Nom:ev # ;
+ev+Prn+Dem+Masc+Sg+Obl:vî # ;
+ev+Prn+Dem+Fem+Sg+Obl:vê # ;
+ev+Prn+Dem+Pl+Nom:ev # ;
+ev+Prn+Dem+Pl+Obl:van # ;

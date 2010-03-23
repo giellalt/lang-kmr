@@ -1,0 +1,58 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! VERBS
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! Verb forms in Kurdish are usually formed from a prefix indicating mood, a 
+! stem (either present or past) and a personal suffix. For example:
+!
+! 'Ez diçim' (< 'çûn')
+!     di- ç          -im
+!     IND read.PRES  P1.SG
+! 'I read' 
+!
+! But if the verb is a compound, the prefix becomes an infix:
+!
+! 'Ez vedixwim' (< 'vexwarin')
+!     ve-  di- xw       -im
+!     PREF IND eat.PRES P1.SG
+! 'I drink'
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+LEXICON Accidents_uen
+
+ûn+Verb+Inf@D.PREF@:ûn@D.PREF@ # ;
+ûn+Verb+Pri@R.PREF.di@:@R.PREF.di@ PersonalSuffixes ;
+ûn+Verb+Prs@R.PREF.bi@:@R.PREF.bi@ PersonalSuffixes ;
+ûn+Verb+Neg+Pri@R.PREF.na@:@R.PREF.na@ PersonalSuffixes ;
+ûn+Verb+Past@R.PREF.di@:û@R.PREF.di@ PersonalSuffixes ;
+ûn+Verb+Pis@R.PREF.bi@:û@R.PREF.bi@ PersonalSuffixes ;
+ûn+Verb+Neg+Past@R.PREF.na@:û@R.PREF.na@ PersonalSuffixes ;
+ûn+Verb+Neg+Pis@R.PREF.ne@:û@R.PREF.ne@ PersonalSuffixes ;
+
+LEXICON Accidents_in
+
+in+Verb+Inf@D.PREF@:in@D.PREF@ # ;
+in+Verb+Pri@R.PREF.di@:@R.PREF.di@ PersonalSuffixes ;
+in+Verb+Prs@R.PREF.bi@:@R.PREF.bi@ PersonalSuffixes ;
+in+Verb+Neg+Pri@R.PREF.na@:@R.PREF.na@ PersonalSuffixes ;
+in+Verb+Past@R.PREF.di@:i@R.PREF.di@ PersonalSuffixes ;
+in+Verb+Pis@R.PREF.bi@:i@R.PREF.bi@ PersonalSuffixes ;
+in+Verb+Neg+Past@R.PREF.na@:i@R.PREF.na@ PersonalSuffixes ;
+in+Verb+Neg+Pis@R.PREF.ne@:i@R.PREF.ne@ PersonalSuffixes ;
+
+LEXICON PersonalSuffixes
+
++P1+Sg:%^VSUFim # ;
++P2+Sg:%^VSUFî # ;
++P3+Sg:%^VSUFe # ;
++P1+Pl:%^VSUFin # ;
++P2+Pl:%^VSUFin # ;
++P3+Pl:%^VSUFin # ;
+
+
+
+

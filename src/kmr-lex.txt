@@ -1,0 +1,26 @@
+Multichar_Symbols
+
++Verb +N +Pr +CC +CS +Prn +Adj +Pron
++Pri +Prs +Past +Inf +Pis +Neg
++P1 +P2 +P3
++Masc +Fem
++Sg +Pl
++Ind +Def +Rel +Dem +Pers
++Nom +Obl +Cons +Voc
++Pst +Comp +Sup
++Sent
+
+%^PREF %^VSUF
+
+@P.PREF.di@ @P.PREF.bi@ @P.PREF.na@ @P.PREF.ne@
+@R.PREF.bi@ @R.PREF.di@ @R.PREF.na@ @R.PREF.ne@
+@D.PREF@ 
+
+LEXICON Root
+
+VerbRoot ;
+NounRoot ;
+AdjRoot ;
+PronRoot ;
+PrepRoot ;
+PunctRoot ;
