@@ -18,6 +18,7 @@ Multichar_Symbols
 
 LEXICON Root
 
+VerbCompound ;
 VerbRoot ;
 NounRoot ;
 AdjRoot ;

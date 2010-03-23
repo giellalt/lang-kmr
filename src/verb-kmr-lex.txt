@@ -1,4 +1,8 @@
 
+LEXICON VerbCompound
+ve VerbRoot ;
+
+
 LEXICON VerbRoot
 
 Prefixes ;
