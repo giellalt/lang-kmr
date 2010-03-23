@@ -1,4 +1,4 @@
-LEXICON Punctuation 
+LEXICON PunctRoot 
 +CLB:%,   # ;
 +CLB:%.   # ;
 +CLB:%:   # ;
