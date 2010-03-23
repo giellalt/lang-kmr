@@ -49,7 +49,7 @@ all: ikmr.fst
 
 
 ikmr.fst: ../bin/ikmr.fst
-../bin/ikmr.fst: ../bin/kmr.save ../bin/tok.fst ../bin/inituppercase.fst
+../bin/ikmr.fst: ../bin/kmr.save ../bin/tok.fst ../bin/inituppercase.fst ../bin/kmr.fst
 	@echo
 	@echo "*** Building the inverse ikmr.fst ***"
 	@echo
@@ -64,7 +64,7 @@ ikmr.fst: ../bin/ikmr.fst
 # This goal is to build the final analyser. It depends on all the files.
 
 kmr.fst: ../bin/kmr.fst
-../bin/kmr.fst: ../bin/kmr.save ../bin/inituppercase.fst ../bin/tok.fst 
+../bin/kmr.fst: ../bin/kmr.save ../bin/inituppercase.fst 
 	@echo
 	@echo "*** Building kmr.fst ***" ;
 	@echo
