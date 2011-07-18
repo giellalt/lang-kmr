@@ -39,14 +39,14 @@ twol-kmr.hfst: ../bin/twol-kmr.hfst
 	@echo
 	@echo "*** Building $(notdir $@) ***" ;
 	@echo
-	hfst-twolc $< -o $@ 
+	hfst-twolc -i $< -o $@ 
 
 kmr-gen.hfst: ../bin/kmr-gen.hfst 
 ../bin/kmr-gen.hfst: ../bin/lexc-kmr.hfst ../bin/twol-kmr.hfst
 	@echo
 	@echo "*** Building $(notdir $@) ***" ;
 	@echo
-	hfst-compose-intersect -l $+ -o $@
+	hfst-compose-intersect -1 ../bin/lexc-kmr.hfst -2 ../bin/twol-kmr.hfst -o $@
 
 kmr.hfst: ../bin/kmr.hfst
 ../bin/kmr.hfst: ../bin/kmr-gen.hfst
@@ -57,7 +57,8 @@ kmr.hfst: ../bin/kmr.hfst
 	@echo
 	@echo "*** Building lookup-optimized $(notdir $@).ol ***" ;
 	@echo
-	hfst-lookup-optimize $@ -o $@.ol
+	hfst-fst2fst -O -i ../bin/kmr-gen.hfst -o ../bin/kmr.hfst.ol
+
 
 clean:
 	rm -f ../bin/* ../tmp/*
