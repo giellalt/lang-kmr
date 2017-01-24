@@ -1,0 +1,21 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Prepositions
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PrepRoot
+
+cem:cem Prep  ; ! lm="cem" :: "near to"
+ba:ba Prep  ; ! lm="ba" :: "near to"
+ji:ji Prep ; ! lm="ji" :: "from"
+ber:ber Prep  ; ! lm="ber" :: "in front of"
+berî:berî Prep  ; ! lm="berî" :: "before"
+derveyî:derveyî Prep ; ! lm="berî" :: "outside of"
+piştî:piştî Prep ; ! lm="piştî" :: "after"
+ser:ser Prep ; ! lm="ser" :: "on"
+ta:ta Prep ; ! lm="ta" :: "until"
+tevî:tevî Prep ; ! lm="tevî" :: "along with"
+
+LEXICON Prep
+
++Pr: # ;

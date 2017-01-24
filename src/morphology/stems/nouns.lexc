@@ -1,0 +1,32 @@
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Nouns 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NounRoot
+
+mirov:mirov mirov__n ; ! lm="mirov" :: "man"
+xwendevan:xwendevan mirov__n ; ! lm="" :: ""
+karker:karker mirov__n ; ! lm="" :: ""
+mêr:mêr mirov__n ; ! lm="mêr" :: "man"
+doktor:doktor mirov__n ; ! lm="doktor" :: "doctor"
+heval:heval mirov__n ; ! lm="heval" :: "friend"
+kur:kur mirov__n ; ! lm="" :: ""
+xiyar:xiyar mirov__n ; ! lm="xiyar" :: "cucumber"
+ap:ap mirov__n ; ! lm="" :: ""
+bav:bav mirov__n ; ! lm="" :: ""
+çav:çav mirov__n ; ! lm="" :: ""
+bel:bel mirov__n ; ! lm="" :: ""
+kurd:kurd mirov__n ; ! lm="kurd" :: "kurd"
+hogir:hogir mirov__n ; ! lm="" :: ""
+gund:gund mirov__n ; ! lm="" :: ""
+xwêndekar:xwêndekar mirov__n ; ! lm="" :: ""
+endazyar:endazyar mirov__n ; ! lm="" :: ""
+ziman:ziman mirov__n ; ! lm="ziman" :: "language"
+gotar:gotar mirov__n ; ! lm="" :: ""
+şagirt:şagirt mirov__n ; ! lm="" :: ""
+ba:ba ba__n; ! lm="ba" :: "wind"
+roj:roj roj__n; ! lm="roj" :: "day"
+
