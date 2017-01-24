@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+datadir=@datarootdir@
+gtlang=kmr
+dir=${datadir}/giella/${gtlang}
+srcdir=${datadir}/giella/${gtlang}
+
+Name: giella-kmr
+Description: Finite-state language processing tools for Northern Kurdish
+URL: http://divvun.no/doc/index.html
+Version: @VERSION@
