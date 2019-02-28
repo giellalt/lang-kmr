@@ -10,6 +10,8 @@ Multichar_Symbols
 +Pst +Comp +Sup
 +Sent
 
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
+
 %^PREF %^VSUF
 
 @P.PREF.di@ @P.PREF.bi@ @P.PREF.na@ @P.PREF.ne@
