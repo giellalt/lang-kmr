@@ -14,6 +14,9 @@
 
 !! !!!Symbol affixes
 
+LEXICON PunctRoot
+# ; ! fix
+
 LEXICON Noun_symbols_possibly_inflected
  +N+Symbol: SYMBOL_connector ;
 
