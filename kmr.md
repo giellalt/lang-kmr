@@ -607,6 +607,15 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-kmr/blob/main/../src/cg3/functions.cg3)</small>
+# Symbol affixes
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kmr/blob/main/../src/fst/affixes/symbols.lexc)</small>
 
 
 
@@ -624,15 +633,6 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-kmr/blob/main/../src/fst/stems/verbs.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kmr/blob/main/../src/fst/affixes/symbols.lexc)</small>
 
 
 We describe here how abbreviations are in Northern Kurdish are read out, e.g.
