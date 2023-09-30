@@ -1,6 +1,7 @@
 The Northern Kurdish morphology and tools
 ==========================================
 
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-kmr%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-kmr)](https://github.com/giellalt/lang-kmr/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-kmr/main/badge.svg)](https://github.com/giellalt/lang-kmr/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-kmr)](https://github.com/giellalt/lang-kmr/blob/main/LICENSE)
