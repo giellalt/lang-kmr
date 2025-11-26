@@ -33,5 +33,5 @@ name = "Northern Kurdish"
 version = "0.1.0"
 
 [package.hyphenator]
-name = "__UNDEFINED__"
+name = "Northern Kurdish"
 version = "0.1.0"
