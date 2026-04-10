@@ -60,19 +60,19 @@
     "true_negative": 0,
     "slowest_lookup": {
       "secs": 0,
-      "subsec_nanos": 315625
+      "subsec_nanos": 247958
     },
     "fastest_lookup": {
       "secs": 0,
-      "subsec_nanos": 315625
+      "subsec_nanos": 247958
     },
     "average_time": {
       "secs": 0,
-      "subsec_nanos": 315625
+      "subsec_nanos": 247958
     },
     "average_time_95pc": {
       "secs": 0,
-      "subsec_nanos": 315625
+      "subsec_nanos": 247958
     },
     "average_position_of_correct": 0.0,
     "average_suggestions_for_correct": 0.0
@@ -86,17 +86,17 @@
       "position": null,
       "time": {
         "secs": 0,
-        "subsec_nanos": 315625
+        "subsec_nanos": 247958
       },
       "false_accept": false
     }
   ],
   "start_timestamp": {
-    "secs": 1775651669,
-    "subsec_nanos": 265915000
+    "secs": 1775803953,
+    "subsec_nanos": 148820000
   },
   "total_time": {
     "secs": 0,
-    "subsec_nanos": 564875
+    "subsec_nanos": 479459
   }
 }
